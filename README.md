@@ -1,15 +1,18 @@
-# FlightpathdelaysProject
-this project is a datascience phase one project which will be improved upon in the coming days
+# Flight Delay Project
 
-# We got our Raw Datasets from these links 
-Eurocontrol delay Dataset
-https://www.sesperformance.eu/dataportal/data/
+## About
+A data science pipeline analyzing flight delays across 5+ countries,
+built for COMP4381 - Data Science and Analytics, Spring 2026.
 
-Airport data
-https://ourairports.com/data/
+## Data Sources
+- Eurocontrol: https://www.sesperformance.eu/dataportal/data/
+- OurAirports: https://ourairports.com/data/
 
-# Collaborators 
-Fadi Halaweh 1210681
-Tala Kherawish 1220536
+## Team - AeroStats
+| Name | Student ID |
+|------|-----------|
+| Fadi Halaweh | 1210681 |
+| Tala Kherawish | 1220536 |
 
-Special thanks to DR Ahmad Sabbah for supervising our project.
+
+Special thanks to Dr. Ahmad Sabbah for supervising our project.
