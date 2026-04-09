@@ -1,16 +1,15 @@
 # FlightpathdelaysProject
 this project is a datascience phase one project which will be improved upon in the coming days
 
-
-
-# we got our Raw Datasets from these links 
+# We got our Raw Datasets from these links 
 Eurocontrol delay Dataset
 https://www.sesperformance.eu/dataportal/data/
 
 Airport data
 https://ourairports.com/data/
 
-collaborators 
+# Collaborators 
 Fadi Halaweh 1210681
+Tala Kherawish 1220536
 
-special thanks to DR Ahmad sabah for supervision of the project and for great intel
+Special thanks to DR Ahmad Sabbah for supervising our project.
