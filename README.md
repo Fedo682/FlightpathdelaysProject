@@ -1,16 +1,7 @@
 # FlightpathdelaysProject
-this project is a datascience phase one project which will be improved upon in the coming days
+this is the test one where we mess around the code AAA ! !! !#$
 
 
 
-# we got our Raw Datasets from these links 
-Eurocontrol delay Dataset
-https://www.sesperformance.eu/dataportal/data/
+this we conduct testing before setting on the main one
 
-Airport data
-https://ourairports.com/data/
-
-collaborators 
-Fadi Halaweh 1210681
-
-special thanks to DR Ahmad sabah for supervision of the project and for great intel
